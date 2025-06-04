@@ -68,7 +68,7 @@ This journey included support from:
 **SortSec**  
 > Web3 • Cybersecurity • AI for Kingdom impact  
 🛡️ Building tools for prophetic power, healing and automation.  
-📍 [Twitter / X](https://x.com/) | [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
+📍 [Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://linkedin.com/ganiyu.sortput)
 
 ---
 
