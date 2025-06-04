@@ -1,6 +1,6 @@
 # 🔧 14-Day Bash Scripting Challenge
 
-Welcome to my **14-day journey of learning and building with Bash scripting**! This challenge is designed to help me master automation, strengthen cybersecurity workflows, and integrate Bash into my broader work in Web3, AI, and prophetic tech.
+Welcome to my **14-day journey of learning and building with Bash scripting**! This challenge is designed to help me master automation, strengthen cybersecurity workflows and integrate Bash into my broader work in Web3, AI and prophetic tech.
 
 ---
 
@@ -36,11 +36,11 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 ---
 
 ## 💡 Why This Matters
-As someone focused on **Web3 security**, **prophetic tech**, and **AI automation**, I believe Bash scripting is a powerful skill to:
+As someone focused on **Web3 security** and **AI automation**, I believe Bash scripting is a powerful skill to:
 - Automate IAM and DevOps workflows
-- Build dream journaling and spiritual tools
-- Run Web3 validators and node health checks
-- Support cybersecurity audits and scripts
+- Build dream journaling and spiritual tools.
+- Run Web3 validators and node health checks.
+- Support cybersecurity audits and scripts.
 
 ---
 
@@ -65,9 +65,9 @@ This journey included support from:
 
 ## 👨🏽‍💻 Author
 
-**Gabriel Kolawole**  
+**SortSec**  
 > Web3 • Cybersecurity • AI for Kingdom impact  
-🛡️ Building tools for prophetic power, healing, and automation.  
+🛡️ Building tools for prophetic power, healing and automation.  
 📍 [Twitter / X](https://x.com/) | [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
 
 ---
