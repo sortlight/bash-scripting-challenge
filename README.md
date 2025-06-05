@@ -72,6 +72,11 @@ This journey included support from:
 
 ---
 
+
+### Day 2 - Variables, Input, and If Logic
+- [x] Learned to use variables and `read`
+- [x] Used `if` to respond differently for Gabriel 👑
+
 ## 🌟 License
 
 This repository is under the MIT License. Feel free to use, remix, and share.
