@@ -4,7 +4,7 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 
 ---
 
-## 📅 Challenge Schedule & Progress
+##  Challenge Schedule & Progress
 
 | Day | Topic                        | Script Name            | Status | Notes                             |
 |-----|------------------------------|------------------------|--------|-----------------------------------|
@@ -25,7 +25,7 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Bash (GNU)
 - Cron
 - Curl
@@ -35,7 +35,7 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 
 ---
 
-## 💡 Why This Matters
+##  Why This Matters
 As someone focused on **Web3 security** and **AI automation**, I believe Bash scripting is a powerful skill to:
 - Automate IAM and DevOps workflows
 - Build dream journaling and spiritual tools.
@@ -44,7 +44,7 @@ As someone focused on **Web3 security** and **AI automation**, I believe Bash sc
 
 ---
 
-## 🏁 Final Project: Prophetic Dev Toolkit
+## Final Project: Prophetic Dev Toolkit
 A Bash-based suite that includes:
 - Dream logging
 - Daily prophetic word (scripture)
@@ -54,7 +54,7 @@ A Bash-based suite that includes:
 
 ---
 
-## 📜 Certification & Learning Platforms
+##  Certification & Learning Platforms
 This journey included support from:
 - [Great Learning – Bash Scripting Certificate](https://www.mygreatlearning.com/academy/learn-for-free/courses/bash-scripting)
 - [Alison – Shell Scripting](https://alison.com/course/introduction-to-shell-scripting)
@@ -63,22 +63,18 @@ This journey included support from:
 
 ---
 
-## 👨🏽‍💻 Author
+##  Author
 
 **SortSec**  
 > Web3 • Cybersecurity • AI for Kingdom impact  
-🛡️ Building tools for prophetic power, healing and automation.  
-📍 [Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://linkedin.com/ganiyu.sortput)
+🛡Building tools for prophetic power, healing and automation.  
+[Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://linkedin.com/ganiyu.sortput)
 
 ---
 
 
-### Day 2 - Variables, Input, and If Logic
-- [x] Learned to use variables and `read`
-- [x] Used `if` to respond differently for Gabriel 👑
 
 ## 🌟 License
 
-This repository is under the MIT License. Feel free to use, remix, and share.
+This repository is under the MIT License. Feel free to use, remix and share.
 
-Added full Bash challenge README template
