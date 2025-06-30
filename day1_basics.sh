@@ -1,10 +1,8 @@
 #!/bin/bash
-#Sortsec Day 1: Basic Bash Commands
-echo "Welcome to Day 1 of the Bash Scripting Challenge!"
-mkdir test_folder
-cd test_folder
-touch hello.txt
-echo "This is a test file." > hello.txt
-cat hello.txt
 
+# Day 1 - Hello World Bash Script
+
+echo "Hello, Prophet Gabriel 👋"
+echo "Today is $(date)"
+echo "You’ve just written your first Bash script — glory to God!"
 
