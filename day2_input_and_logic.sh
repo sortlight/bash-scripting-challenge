@@ -23,7 +23,7 @@ random_verse=${verses[$RANDOM % ${#verses[@]}]}
 
 # Greet prophetically
 echo
-if [[ "${username,,}" == "gabriel" ]]; then
+if [[ "${username,,}" == "Gabriel" ]]; then
   echo "👑 Hey Prophet Gabriel! You carry fire 🔥"
 else
   echo "🌱 Welcome, $username! Stay expectant. Heaven is watching."
