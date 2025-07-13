@@ -43,5 +43,5 @@ Next, I want to dive deeper into loops, and maybe tie it back into account check
 
 # Author
 
-Written by [Sortlight](github.com/sortlight)
+Written by [Sortlight](https://github.com/sortlight)
 
