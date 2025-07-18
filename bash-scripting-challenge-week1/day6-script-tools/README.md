@@ -40,9 +40,11 @@ Perfect if you're:
    chmod +x countdown_timer.sh
 
 ```
+
 Run it:
 
-```bash
+
+    ```bash
 ./countdown_timer.sh
 
 ```
