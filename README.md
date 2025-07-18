@@ -70,7 +70,7 @@ This journey included support from:
 Written by [SortSec](https://github.com/sortlight)
  
  
-[Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://lhttps://www.linkedin.com/in/ganiyusortput/)
+[Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://www.linkedin.com/in/ganiyusortput/)
 
 ---
 
