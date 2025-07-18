@@ -1,4 +1,4 @@
-# 🔧 14-Day Bash Scripting Challenge
+# 14-Day Bash Scripting Challenge
 
 Welcome to my **14-day journey of learning and building with Bash scripting**! This challenge is designed to help me master automation, strengthen cybersecurity workflows and integrate Bash into my broader work in Web3, AI and prophetic tech.
 
@@ -9,11 +9,11 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 | Day | Topic                        | Script Name            | Status | Notes                             |
 |-----|------------------------------|------------------------|--------|-----------------------------------|
 | 1   | Terminal Basics              | `day1_basics.sh`       | ✅     | Practiced `ls`, `cd`, `mkdir`     |
-| 2   | Variables & Echo             | `day2_greeting.sh`     | ✅     | Wrote a welcome script            |
-| 3   | If-Else Logic                | `day3_filecheck.sh`    | ✅     | File existence check              |
-| 4   | Loops                        | `day4_loops.sh`        | ✅     | `for` loop printing 1–10          |
-| 5   | Input & Functions            | `day5_bless.sh`        | ✅     | Blessing generator                |
-| 6   | Shebang & Execution          | `day6_timer.sh`        | ✅     | Countdown timer                   |
+| 2   | Variables & Echo             | `day2_script.sh`       | ✅     | Wrote a welcome script            |
+| 3   | If-Else Logic                | `check_dream_file.sh`  | ✅     | File existence check              |
+| 4   | Loops                        | `loop_cleanup.sh`      | ✅     | `for` loop printing 1–10          |
+| 5   | Input & Functions            | `bless_user.sh`        | ✅     | Blessing generator                |
+| 6   | Shebang & Execution          | `countdown_timer.sh`   | ✅     | Countdown timer                   |
 | 7   | Dream Logger Mini Project    | `dream_logger.sh`      | ✅     | Timestamped dream journal         |
 | 8   | Node Health Checker          | `node_check.sh`        | ⏳     | Pings and logs node status        |
 | 9   | Cron Jobs & Scheduling       | `cron_example.txt`     | ⏳     | Schedules logger using cron       |
@@ -26,6 +26,7 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 ---
 
 ## Tools Used
+
 - Bash (GNU)
 - Cron
 - Curl
@@ -35,8 +36,8 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 
 ---
 
-##  Why This Matters
-As someone focused on **Web3 security** and **AI automation**, I believe Bash scripting is a powerful skill to:
+##  You may want to:
+
 - Automate IAM and DevOps workflows
 - Build dream journaling and spiritual tools.
 - Run Web3 validators and node health checks.
@@ -55,6 +56,7 @@ A Bash-based suite that includes:
 ---
 
 ##  Certification & Learning Platforms
+
 This journey included support from:
 - [Great Learning – Bash Scripting Certificate](https://www.mygreatlearning.com/academy/learn-for-free/courses/bash-scripting)
 - [Alison – Shell Scripting](https://alison.com/course/introduction-to-shell-scripting)
@@ -65,16 +67,16 @@ This journey included support from:
 
 ##  Author
 
-**SortSec**  
-> Web3 • Cybersecurity • AI for Kingdom impact  
-🛡Building tools for prophetic power, healing and automation.  
-[Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://linkedin.com/ganiyu.sortput)
+Written by [SortSec](https://github.com/sortlight)
+ 
+ 
+[Twitter / X](https://x.com/sortsec) | [GitHub](https://github.com/sortlight) | [LinkedIn](https://lhttps://www.linkedin.com/in/ganiyusortput/)
 
 ---
 
 
 
-## 🌟 License
+## License
 
-This repository is under the MIT License. Feel free to use, remix and share.
+This repository is under the MIT License. Feel free to use and share.
 
