@@ -53,7 +53,16 @@ A Bash-based suite that includes:
 - AI insight (via GPT API)
 - Cron-based automation
 
----
+## How to Use
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/bash-scripting-challenge.git
+cd bash-scripting-challenge
+
+```
+
 
 ##  Certification & Learning Platforms
 
@@ -78,5 +87,5 @@ Written by [SortSec](https://github.com/sortlight)
 
 ## License
 
-This repository is under the MIT License. Feel free to use and share.
+This repository is under the [MIT](LICENSE) License. Feel free to use and share.
 
