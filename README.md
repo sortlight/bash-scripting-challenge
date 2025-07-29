@@ -8,10 +8,10 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 
 | Day | Topic                        | Script Name            | Status | Notes                             |
 |-----|------------------------------|------------------------|--------|-----------------------------------|
-| 1   | Terminal Basics              | `day1_basics.sh`       | ✅     | Practiced `ls`, `cd`, `mkdir`     |
-| 2   | Variables & Echo             | `day2_script.sh`       | ✅     | Wrote a welcome script            |
-| 3   | If-Else Logic                | `check_dream_file.sh`  | ✅     | File existence check              |
-| 4   | Loops                        | `loop_cleanup.sh`      | ✅     | `for` loop printing 1–10          |
+| 1   | Terminal Basics              | [basics.sh](bash-scripting-challenge-week1/day1-terminal-basics/day1_basics.sh)       | ✅     | Practiced `ls`, `cd`, `mkdir`     |
+| 2   | Variables & Echo             | [script.sh](bash-scripting-challenge-week1/day2-variables-echo/day2_script.sh)       | ✅     | Wrote a welcome script            |
+| 3   | If-Else Logic                | [check_dream_file.sh](bash-scripting-challenge-week1/day3-conditions/check_dream_file.sh)  | ✅     | File existence check              |
+| 4   | Loops                        | [loop_cleanup.sh](bash-scripting-challenge-week1/day4-loops/loop_cleanup.sh)      | ✅     | `for` loop printing 1–10          |
 | 5   | Input & Functions            | `bless_user.sh`        | ✅     | Blessing generator                |
 | 6   | Shebang & Execution          | `countdown_timer.sh`   | ✅     | Countdown timer                   |
 | 7   | Dream Logger Mini Project    | `dream_logger.sh`      | ✅     | Timestamped dream journal         |
