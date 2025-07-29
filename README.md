@@ -12,10 +12,10 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 | 2   | Variables & Echo             | [script.sh](bash-scripting-challenge-week1/day2-variables-echo/day2_script.sh)       | ✅     | Wrote a welcome script            |
 | 3   | If-Else Logic                | [check_dream_file.sh](bash-scripting-challenge-week1/day3-conditions/check_dream_file.sh)  | ✅     | File existence check              |
 | 4   | Loops                        | [loop_cleanup.sh](bash-scripting-challenge-week1/day4-loops/loop_cleanup.sh)      | ✅     | `for` loop printing 1–10          |
-| 5   | Input & Functions            | `bless_user.sh`        | ✅     | Blessing generator                |
-| 6   | Shebang & Execution          | `countdown_timer.sh`   | ✅     | Countdown timer                   |
-| 7   | Dream Logger Mini Project    | `dream_logger.sh`      | ✅     | Timestamped dream journal         |
-| 8   | Node Health Checker          | `node_check.sh`        | ✅     | Pings and logs node status        |
+| 5   | Input & Functions            | [bless_user.sh](bash-scripting-challenge-week1/day5-user-input-functions/bless_user.sh)        | ✅     | Blessing generator                |
+| 6   | Shebang & Execution          | [countdown_timer.sh](bash-scripting-challenge-week1/day6-script-tools/countdown_timer.sh)   | ✅     | Countdown timer                   |
+| 7   | Dream Logger Mini Project    | [dream_logger.sh](bash-scripting-challenge-week1/day7-mini-project-dream-logger/dream_logger.sh)     | ✅     | Timestamped dream journal         |
+| 8   | Node Health Checker          | [node_check.sh](bash-scripting-challenge-part2/day8-node-health-checker/node_check.sh)        | ✅     | Pings and logs node status        |
 | 9   | Cron Jobs & Scheduling       | `cron_example.txt`     | ⏳     | Schedules logger using cron       |
 | 10  | Bash + AI (Prompt Script)    | `ai_prompt.sh`         | ⏳     | Sends input to AI API             |
 | 11  | Cyber Recon Script           | `recon.sh`             | ⏳     | Domain + IP reconnaissance        |
@@ -27,12 +27,12 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 
 ## Tools Used
 
-- Bash (GNU)
+- Bash
 - Cron
 - Curl
 - Nmap
 - VS Code + ShellCheck
-- Replit / Terminal
+- Linux Terminal
 
 ---
 
@@ -46,25 +46,16 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 ---
 
 ## Final Project: Prophetic Dev Toolkit
-A Bash-based suite that includes:
+
+A Bash based suite that includes:
 - Dream logging
 - Daily prophetic word (scripture)
 - Local backup
 - AI insight (via GPT API)
 - Cron-based automation
 
-## How to Use
 
-Clone the repo:
-
-```bash
-git clone https://github.com/your-username/bash-scripting-challenge.git
-cd bash-scripting-challenge
-
-```
-
-
-##  Certification & Learning Platforms
+# Certification & Learning Platforms
 
 This journey included support from:
 - [Great Learning – Bash Scripting Certificate](https://www.mygreatlearning.com/academy/learn-for-free/courses/bash-scripting)
