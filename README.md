@@ -15,7 +15,7 @@ Welcome to my **14-day journey of learning and building with Bash scripting**! T
 | 5   | Input & Functions            | `bless_user.sh`        | ✅     | Blessing generator                |
 | 6   | Shebang & Execution          | `countdown_timer.sh`   | ✅     | Countdown timer                   |
 | 7   | Dream Logger Mini Project    | `dream_logger.sh`      | ✅     | Timestamped dream journal         |
-| 8   | Node Health Checker          | `node_check.sh`        | ⏳     | Pings and logs node status        |
+| 8   | Node Health Checker          | `node_check.sh`        | ✅     | Pings and logs node status        |
 | 9   | Cron Jobs & Scheduling       | `cron_example.txt`     | ⏳     | Schedules logger using cron       |
 | 10  | Bash + AI (Prompt Script)    | `ai_prompt.sh`         | ⏳     | Sends input to AI API             |
 | 11  | Cyber Recon Script           | `recon.sh`             | ⏳     | Domain + IP reconnaissance        |
